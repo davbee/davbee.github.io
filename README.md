@@ -2,8 +2,8 @@
 
 ## Contact
 
-- davecompih@gmail.com
-- https://www.linkedin.com/in/davidpih/
+- email: <davecompih@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/davidpih>
 
 ### Expertise: Automation | Systems Engineering | Software Development | Mechanical Engineering | Project Engineering | Medical Devices
 
