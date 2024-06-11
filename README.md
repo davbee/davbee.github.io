@@ -14,7 +14,7 @@
 
 ## Work Experience
 
-2022-Present Test Engineer at Google
+2022-2024 Test Engineer at Google
 
 - Test development: Developed and integrated display metrology test automation using Radiant Colorimeter API in Python; developed test automation for test data automatically uploaded to Google Cloud using Google Drive API in Python; developed Python / LabVIEW program for ssh into a Chrome Box for automating Android-based camera captures and uploading the test data and image files automatically to cloud storages; developed a Python program for the automatically generating the test program based on measurement sections and names.
 - Infra: Implemented test infrastructure for data upload; provided training internal and external (OEM in USA, Mexico & China) engineers on how to use the infrastructure software; developed deployment plan and hold meetings with stakeholders on deploying the infrastructure.
