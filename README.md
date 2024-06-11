@@ -5,7 +5,7 @@
 - davecompih@gmail.com
 - https://www.linkedin.com/in/davidpih/
 
-### Technical Skills: Automation | Systems Engineering | Software Development | Mechanical Engineering | Project Engineering | Medical Devices
+### Expertise: Automation | Systems Engineering | Software Development | Mechanical Engineering | Project Engineering | Medical Devices
 
 ## Education
 
