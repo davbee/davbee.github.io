@@ -1,8 +1,2 @@
 title: David Pih's CV
-theme: jekyll-theme-minimal
-author: David Pih
-
-social-network-links:
-  email: "davecompih@gmail.com"
-  github: "davbee"
-  linkedin: "https://www.linkedin.com/in/davidpih"
+theme: jekyll-theme-minima
