@@ -80,3 +80,4 @@
 
 - email: <davecompih@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/davidpih>
+- Resume: (files\CV\cv.pdf)
