@@ -1,9 +1,9 @@
-# David Pih
+<!-- # David Pih
 
 ## Contact
 
 - email: <davecompih@gmail.com>
-- LinkedIn: <https://www.linkedin.com/in/davidpih>
+- LinkedIn: <https://www.linkedin.com/in/davidpih> -->
 
 ### Expertise: Automation | Systems Engineering | Software Development | Mechanical Engineering | Project Engineering | Medical Devices
 
