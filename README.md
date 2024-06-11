@@ -1,10 +1,3 @@
-<!-- # David Pih
-
-## Contact
-
-- email: <davecompih@gmail.com>
-- LinkedIn: <https://www.linkedin.com/in/davidpih> -->
-
 ### Expertise: Automation | Systems Engineering | Software Development | Mechanical Engineering | Project Engineering | Medical Devices
 
 ## Education
@@ -80,3 +73,8 @@
 
 - #US6177805, High-Density Test Connector for Disk Drives in a High-Volume Manufacturing Environment
 - #US9468718, Means and method for detecting free flow in an infusion line
+
+## Contact
+
+- email: <davecompih@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/davidpih>
