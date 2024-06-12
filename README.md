@@ -1,6 +1,9 @@
-# David Pih
+## Expertise:
 
-### Expertise: Automation | Systems Engineering | Software Development | Mechanical Engineering | Project Engineering | Medical Devices
+- Automation & Software Development
+- Systems Engineering
+- Mechanical Engineering
+- Medical Devices
 
 ## Education
 
