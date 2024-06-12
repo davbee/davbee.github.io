@@ -83,4 +83,4 @@
 
 ### PDF version of resume
 
-![](files/CV/cv.pdf)
+[Resume](files/CV/cv.pdf)
