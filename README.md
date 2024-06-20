@@ -88,4 +88,4 @@
 
 ### PDF version of resume
 
-[Resume](files/CV/CV.pdf)
+[Resume](files/CV/cv.pdf)
