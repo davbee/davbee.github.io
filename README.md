@@ -86,6 +86,4 @@
 - email: <davecompih@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/davidpih>
 
-### PDF version of resume
-
-[Resume](files/CV/cv.pdf)
+### PDF version of [resume](files/CV/cv.pdf)
