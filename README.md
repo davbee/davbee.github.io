@@ -16,9 +16,9 @@
 
 2022-2024 Test Engineer at Google
 
-- Test development: Developed and integrated display metrology test automation using Radiant Colorimeter API in Python; developed test automation for test data automatically uploaded to Google Cloud using Google Drive API in Python; developed Python / LabVIEW program for ssh into a Chrome Box for automating Android-based camera captures and uploading the test data and image files automatically to cloud storages; developed a Python program for the automatically generating the test program based on measurement sections and names.
-- Infra: Implemented test infrastructure for data upload; provided training internal and external (OEM in USA, Mexico & China) engineers on how to use the infrastructure software; developed deployment plan and hold meetings with stakeholders on deploying the infrastructure.
-- Sustaining & Optimization: Resolved production line down issues to bring back production line; developed test procedure templates and implemented for all test documents. Performed retrospective studies on calibration results for optimizing existing calibration process.
+- Test development: Developed and integrated display metrology test automation using Radiant Colorimeter API in Python; developed test automation for test data automatically uploaded to Google Cloud using Google Drive API in Python; developed Python / LabVIEW program for ssh into a Chrome Box for automating Android-based camera captures and uploading the test data and image files automatically to cloud storages; developed a Python program for the automatically generating the test program based on phases and measurement names.
+- Test Infra: Implemented test infrastructure for data upload in Python; provided training internal and external (OEM in USA, Mexico & China) engineers on how to use the infrastructure software; developed deployment plan and hold meetings with stakeholders on deploying the infrastructure.
+- Sustaining & Optimization: Resolved production line down issues to bring back production line; developed test procedure templates and implemented for all test documents.  Performed retrospective studies on calibration results for optimizing existing calibration process.
 
 2016-2022 Principal Test Engineer at Boston Scientific
 
@@ -73,7 +73,7 @@
 ## Software:
 
 - Electrical: Analog Devices LTspice, C / ARM Keil µVision IDE, Cadence OrCAD Capture and PSpice AD, NI LabVIEW, LabWindows/CVI, & TestStand
-- Software: Atlassian Bitbucket & JIRA, Microsoft GitHub, Visual Studio; Visual Basic; Minitab, PTC MathCAD, MathWorks Matlab; VMware; Octave, R, Tortoise GIT, SQL; Python; Colab; Jupyter Notebook; Bash; Docker; Google Drive API; Colab
+- Software: Atlassian Bitbucket GIT & JIRA, Tortoise GIT / SVN, Microsoft GitHub, Visual Studio; Visual Basic; Minitab, PTC MathCAD, MathWorks Matlab; VMware; Octave, R, SQL; Python; Colab; Jupyter Notebook; Bash; Docker; Google Drive API
 - Mechanical / Design Control: Ansys Mechanical WorkBench FEA, Autodesk AutoCAD, Dassault COSMOS/M & SolidWorks & ENOVIA, Siemens Flotherm; PTC Windchill; SAP; IBM Agile
 
 ## US Patent Granted:
@@ -88,4 +88,4 @@
 
 ### PDF version of resume
 
-[Resume](files/CV/cv.pdf)
+[Resume](files/CV/CV.pdf)
