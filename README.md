@@ -18,7 +18,7 @@
 
 - Test development: Developed and integrated display metrology test automation using Radiant Colorimeter API in Python; developed test automation for test data automatically uploaded to Google Cloud using Google Drive API in Python; developed Python / LabVIEW program for ssh into a Chrome Box for automating Android-based camera captures and uploading the test data and image files automatically to cloud storages; developed a Python program for the automatically generating the test program based on phases and measurement names.
 - Test Infra: Implemented test infrastructure for data upload in Python; provided training internal and external (OEM in USA, Mexico & China) engineers on how to use the infrastructure software; developed deployment plan and hold meetings with stakeholders on deploying the infrastructure.
-- Sustaining & Optimization: Resolved production line down issues to bring back production line; developed test procedure templates and implemented for all test documents.  Performed retrospective studies on calibration results for optimizing existing calibration process.
+- Sustaining & Optimization: Resolved production line down issues to bring back production line; developed test procedure templates and implemented for all test documents. Performed retrospective studies on calibration results for optimizing existing calibration process.
 
 2016-2022 Principal Test Engineer at Boston Scientific
 
@@ -27,7 +27,7 @@
 - Sustaining: Performed tester builds and produced qualification documentation for existing and new hardware. Authored software and hardware design specification and description. Performed investigations for several medical device product lines for product failures and safety.
 - Training for others: As a site Engineering Essential lead, developed session to share engineering knowledge and best practices. As a medical device investigation course instructor, recruited instructors and taught the investigation class.
 
-2007-2016 Principal Mechanical Engineer / Systems Engineer / Project Engineer at Hospira (now ICU Medical)
+2007-2016 Principal Engineer at Hospira (now ICU Medical)
 
 - Successfully implemented mitigations and completed design changes for infusion pumps. Worked as a project lead for multiple systems engineering projects simultaneously. Performed FEA for mechanical stresses, Spice, Monte Carlo simulations, DOE, mechanical and electrical tolerance studies to discover the failure modes as well as specification robustness, specification change, error budge and margin studies. Proposed and implemented mechanical, electrical or/and software design fixes. Developed programs to perform data acquisition, control and automation for the engineering and verification tests. Implemented improved or new sensor signal processing algorithm from training data and verification of new software algorithms. Produced statistical sampling plan and performed statistical analysis.
 - Managed multiple projects at a time for complex infusion pumps. Provided schedule updates and obtain project funds to sustain projects. Prioritized projects based on urgencies. Performed design control processes to implement mitigation or design solutions. Worked with project teams to carry projects from design input and output, traceability matrix, hazard analysis, DFMEA, risk assessment, to development plan, V&V protocols (including sampling plan selection and justification) / executions / reports and design transfer.
