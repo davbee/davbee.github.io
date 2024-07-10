@@ -76,6 +76,18 @@
 - Software: Atlassian Bitbucket GIT & JIRA, Tortoise GIT / SVN, Microsoft GitHub, Visual Studio; Visual Basic; Minitab, PTC MathCAD, MathWorks Matlab; VMware; Octave, R, SQL; Python; Colab; Jupyter Notebook; Bash; Docker; Google Drive API
 - Mechanical / Design Control: Ansys Mechanical WorkBench FEA, Autodesk AutoCAD, Dassault COSMOS/M & SolidWorks & ENOVIA, Siemens Flotherm; PTC Windchill; SAP; IBM Agile
 
+## Sensors/components:
+
+imaging processing for mobile camera image sensor/module.  Electro-optical transponder /transceiver; receiver sensitivity optimization in optical fiber communications; VCSEL laser; opto-switches; MEMS-based photonic switch, accelerometers and inertial sensors; strain-gage based pressure sensor; ultrasonic air bubble sensors; motor encoders; motorized linear stage control
+
+## Instrumentation:
+
+SCPI; VISA; Advanced Network Tester; Optical Network Tester; Omniber; Lightwave Measurement System, OSA, VOA, Multi-Wavelength Meter, Power Meter, Beam Profile Scanner, Laser Diode Controller, Polarization Controller, EDFA, Fiberoptic Switches, DCA, Network/Spectrum Analyzer, Oscilloscope, Data Acquisition/Switch Unit, Function/Waveform Generator, DMM, Power Supply; Power Meters; Acutronic Dynamic Controller; Dactron Vibration Controller; Newport Motion Controller; Accelerometer Sensors; Gyroscope; Wind Tunnel and Thermal Measurement Devices; Flowmeter; Environmental Chamber Control; Vector CANoe, Canalyzer; Radiant Colorimeter
+
+## Interfaces:
+
+RS232, RS422, RS485, GPIB, SCXI, PXI, TTL, I2C, 1394b Firewire, CAN, USB, TCP/IP
+
 ## US Patent Granted:
 
 - #US6177805, High-Density Test Connector for Disk Drives in a High-Volume Manufacturing Environment
