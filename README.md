@@ -34,7 +34,7 @@
 - Managed multiple projects at a time for complex infusion pumps. Provided schedule updates and obtain project funds to sustain projects. Prioritized projects based on urgencies. Performed design control processes to implement mitigation or design solutions. Worked with project teams to carry projects from design input and output, traceability matrix, hazard analysis, DFMEA, risk assessment, to development plan, V&V protocols (including sampling plan selection and justification) / executions / reports and design transfer.
 - As a subject matter expert in various technical areas, helped in drafting responses from regulatory agencies; also worked with Quality on various Notice-to-Managements. Drafted and prepared for audit/inspection playbooks.
 
-2006-2007 Test Automation Architecture / Developer at Flextronics (Contractor)
+2006-2007 Test Automation Architecture / Developer (Contractor) at Flextronics
 
 - Managed image characterization test development project from start to transfer to Flex Malaysia. Developed fully automated mobile phone camera sensor/module characterization tests in controlled temperature environment. Used API to develop low-level raw image decoding and manipulation for test integration and applications. The tester included fully automated image acquisition, image analysis, data saving and report presentation in one integrated software package.
 
@@ -55,7 +55,7 @@
 
 - Developed device verification test system for Xros MEMS-mirror modules; this enabled Xros to build photonic switching system that led to Nortel’s acquisition of Xros a few months later. Performed Orcad Schematic design for Internal Communications Module in the Nortel Optera Connect PX photonic switch system. Developed verification test systems for electro-optic systems; wrote test plans; performed hardware interface design, and automated tester software development. Developed and debugged test boards. Produced build packages and documentations for manufacturing.
 
-1996-1999 Advisory (Mechanical) Engineer at IBM-SSD (SSD is now WDC)
+1996-1999 Advisory (Mechanical) Engineer at IBM-SSD (now WDC)
 
 - Provided test-engineering supports for pilot line in IBM San Jose and product launch in IBM Singapore. Performed clean room test fixture design for automated disk drive testers from inception to production line installation. Produced build packages for replication of disk drive fixtures and testers. Led and implemented common test fixtures in test operations across different test engineering departments. Performed vendor selection, scheduling, cost negotiation, design reviews, prototype debugging, and qualification of test fixtures.
 - Worked with and supervise outside vendors: vendor selection, scheduling, cost negotiation, design reviews, prototype debugging, and qualification of test fixtures and tester components.
@@ -87,7 +87,7 @@ SCPI; VISA; Advanced Network Tester; Optical Network Tester; Omniber; Lightwave 
 
 # Interfaces:
 
-RS232, RS422, RS485, GPIB, SCXI, PXI, TTL, I2C, 1394b Firewire, CAN, USB, TCP/IP
+RS232, RS422, RS485, GPIB, SCXI, PXI, TTL, I2C, SPI, 1394b Firewire, CAN, USB / USB raw, Ethernet
 
 ## US Patent Granted:
 
