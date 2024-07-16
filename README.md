@@ -1,11 +1,5 @@
 # David Pih
 
-## Contact
-
-- Email: David Pih <davecompih@gmail.com>
-- LinkedIn: <https://www.linkedin.com/in/davidpih>
-- PDF resume: <https://github.com/davbee/GitHubCV/blob/main/cv.pdf>
-
 ### Technical Skills: Automation | Systems Engineering | Software Development | Mechanical Engineering | Project Engineering | Medical Devices
 
 ## Education
