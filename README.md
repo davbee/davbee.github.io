@@ -75,7 +75,7 @@
 
 Imaging processing for mobile camera image sensor/module. Electro-optical transponder /transceiver; receiver sensitivity optimization in optical fiber communications; VCSEL laser; opto-switches; MEMS-based photonic switch, accelerometers and inertial sensors; strain-gage based pressure sensor; ultrasonic air bubble sensors; motor encoders; motorized linear stage control
 
-# [Instrumentation] (https://davbee.github.io/ "Instrumentation"):
+# Instrumentation:
 
 SCPI; VISA; Advanced Network Tester; Optical Network Tester; Omniber; Lightwave Measurement System, OSA, VOA, Multi-Wavelength Meter, Power Meter, Beam Profile Scanner, Laser Diode Controller, Polarization Controller, EDFA, Fiberoptic Switches, DCA, Network/Spectrum Analyzer, Oscilloscope, Data Acquisition/Switch Unit, Function/Waveform Generator, DMM, Power Supply; Power Meters; Acutronic Dynamic Controller; Dactron Vibration Controller; Newport Motion Controller; Accelerometer Sensors; Gyroscope; Wind Tunnel and Thermal Measurement Devices; Flowmeter; Environmental Chamber Control; Vector CANoe, Canalyzer; Radiant Colorimeter
 
