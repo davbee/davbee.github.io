@@ -65,10 +65,15 @@
 - Provided feasibility studies for horizontal oil well drilling projects. Performed production analysis, and engineering economics studies. Wrote project proposals. Performed project cost and time estimates.
 - Design and analysis from inception to detail design for ultrahigh-pressure waterjet cutting and oil well drilling system. Designed and modified system components and test fixtures. Improved strength of materials for drilling equipment. Designed and performed structural tests. Perform fluid mechanical and structural system modeling and analysis.
 
+1989-1990	Assistant at Lawrence Berkeley National Laboratory
+
+- Performed air ventilation efficiency and air quality tests using tracer gas chromatography.  Operated computer-controlled HVAC facilities; set up and calibrated research equipment; designed, made and modified test devices.
+- Automated computer programs in FORTRAN and Excel Macro for data acquisition, data reduction, graphic presentation, error analysis and statistical interpretation.
+
 ## Software:
 
 - Electrical: Analog Devices LTspice, Cadence OrCAD Capture and PSpice AD, C / ARM Keil µVision IDE; NI LabVIEW, LabWindows/CVI, & TestStand
-- Software: Atlassian Bitbucket GIT & JIRA, Cognition Cockpit, Tortoise GIT / SVN, Microsoft GitHub, Visual Studio; Visual Basic; Minitab, PTC MathCAD, MathWorks Matlab; Octave, R, SQL; Python; Qt; Colab; Jupyter Notebook; VMware; Docker; Google Drive API; Ubuntu Linux; Bash
+- Software: Atlassian Bitbucket GIT & JIRA, Cognition Cockpit, Tortoise GIT / SVN, Microsoft GitHub, Visual Studio; VS Codel Visual Basic; Msys C++; Minitab, PTC MathCAD, MathWorks MATLAB; Octave, R, SQL; Python; PyQt / PySide6 GUI; PyVISA, PyDAQmx, Colab; Jupyter Notebook; VMware; Docker; Google Drive API; Ubuntu Linux
 - Mechanical / Design Control: Ansys Mechanical WorkBench FEA, Autodesk AutoCAD, Dassault COSMOS/M & SolidWorks & ENOVIA, Siemens Flotherm; PTC Windchill; SAP; IBM Agile
 
 ## Sensors/components:
@@ -77,7 +82,7 @@ Imaging processing for mobile camera image sensor/module. Electro-optical transp
 
 # Instrumentation:
 
-SCPI; VISA; Advanced Network Tester; Optical Network Tester; Omniber; Lightwave Measurement System, OSA, VOA, Multi-Wavelength Meter, Power Meter, Beam Profile Scanner, Laser Diode Controller, Polarization Controller, EDFA, Fiberoptic Switches, DCA, Network/Spectrum Analyzer, Oscilloscope, Data Acquisition/Switch Unit, Function/Waveform Generator, DMM, Power Supply; Power Meters; Acutronic Dynamic Controller; Dactron Vibration Controller; Newport Motion Controller; Accelerometer Sensors; Gyroscope; Wind Tunnel and Thermal Measurement Devices; Flowmeter; Environmental Chamber Control; Vector CANoe, Canalyzer; Radiant Colorimeter
+SCPI; VISA; Radiant Colorimeter; Ophir Power Meter; Acterna ANT-20 Advanced Network Tester for pattern generation and BERT measurements; Keysight Omniber; Lightwave Measurement System, Optical Spectrum Analyzer (OSA), VOA, Multi-Wavelength Meter, Power Meter, Beam Profile Scanner, Laser Diode Controller, Polarization Controller, EDFA, Fiberoptic Switches, Keysight's digital communication analyzer (DCA) for eye diagram, extinction ratio, jitter measurements, Oscilloscope, Network Analyzer / Spectrum Analyzer for return and insertion loss measurements; Data Acquisition/Switch Unit, Function/Waveform Generator, DMM, Power Supply; Power Meters; Acutronic Dynamic Controller; Dactron Vibration Controller; Newport Motion Controller; Accelerometer Sensors; Gyroscope; Wind Tunnel and Thermal Measurement Devices; Flowmeter; Environmental Chamber Control; Vector CANoe, Canalyzer; National Instruments Data Acquisition HW / SW
 
 # Interfaces:
 
